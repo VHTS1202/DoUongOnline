@@ -9,10 +9,8 @@ This is a simple web application for an online beverage store, developed as a st
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Database](#database)
-- [Setup](#setup)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ---
 
